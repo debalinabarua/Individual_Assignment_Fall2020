@@ -1,0 +1,16 @@
+I have completed the course "Introduction to Shell" from Datacamp. I have attached the certificate in this folder. 
+
+Introduction to Shell course has 4 chapters. 
+Chapter 1 : Manipulating files and directories
+This chapter provided a brief introduction to the Unix shell. Basic commands like how to create, modify, and delete files and folders.
+Chapter 2: Manipulating data.
+In this chapter, they showed how to work with the data in the files that we accessed in the previous chapter.
+Chapter 3:Combining tools
+In this chapter , we  combined commands together to do new things. For example, using multiple commands together 
+to select the data. Also this chapter showed commands for sorting data.
+Chapter 4:Batch processing
+In this chapter, we learnt how to write commands in order to  process many files at once. 
+Then also learnt how the shell uses variables to store information. 
+Chapter 5: Creating new tools
+Here, i created commands on my own. using nano and editing the files and then running them.
+
